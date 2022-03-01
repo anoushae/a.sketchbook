@@ -10,14 +10,17 @@ body {
     font-family: 'Roboto', sans-serif; 
 }
 
-header, footer, main {
+main {
+    margin: 2px;
     padding: 20px;
     border: 1px solid #000000;
     color: #141414
 }
 
 header, footer {
+    padding: 20px;
     line-height: 30px;
+    text-align: center;
 }
 
 .title {
