@@ -49,3 +49,8 @@ nav {
     color: darkgrey;
     margin: 10px;
   }
+
+  .image img {
+      display: flex;
+      width: 100%;
+  }
